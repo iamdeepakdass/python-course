@@ -22,5 +22,5 @@ shopping.insert(2, "Peanut Butter")
 for items in shopping:
     print(items)
 
-# function for finns the length of the list 
+# function to find the length of the list 
 print(len(shopping))
